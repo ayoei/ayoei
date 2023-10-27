@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayoei
+- 👋 Hi, I’m Ayoub El Haraoui
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on creating amazing websites
