@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayoub El Haraoui
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on creating amazing websites
 - 📫 How to reach me IG: @ayo_ei
 
