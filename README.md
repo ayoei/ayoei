@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [ayodev.netlify.app](ayodev.netlify.app)
 
-- 📝 I regularly write articles on [linkedin.com/in/ayoubelharaoui/](linkedin.com/in/ayoubelharaoui/)
-
 - 💬 Ask me about **Javascript, Node JS, React**
 
 - 📫 How to reach me **ayoubelharaoui.contact@gmail.com**
