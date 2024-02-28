@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayoub El Haraoui</h1>
 <h3 align="center">a Passionate Front-End Developer from Morocco</h3>
+<img align="right" alt="Coding" width="400" style="margin-top: 50px" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoei&label=Profile%20views&color=0e75b6&style=flat" alt="ayoei" /> </p>
 
@@ -9,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **creative projects**
 
-- 👨‍💻 All of my projects are available at [ayodev.netlify.app](ayodev.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://ayodev.netlify.app">my Portfolio</a>
 
 - 💬 Ask me about **Javascript, Node JS, React**
 
 - 📫 How to reach me **ayoubelharaoui.contact@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/ayoubelharaoui/](linkedin.com/in/ayoubelharaoui/)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/ayoubelharaoui/">my LinkedIn</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
