@@ -4,19 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoei&label=Profile%20views&color=0e75b6&style=flat" alt="ayoei" /> </p>
 
-- 🔭 I’m currently working on **BlogApp**
+- 🔭 I’m currently working on **E-commerce Website**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **creative projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://ayoubelharaoui.com">my Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://ayoubelharaoui.com">My Portfolio</a>
 
 - 💬 Ask me about **Javascript, Node JS, React**
 
 - 📫 How to reach me **ayoub.elharaoui@outlook.com**
 
-- 📄 Know about my experiences <a href="https://linkedin.com/in/ayoub-elharaoui/">my LinkedIn</a>
+- 📄 Know about my experiences <a href="https://linkedin.com/in/ayoub-elharaoui/">My LinkedIn</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
