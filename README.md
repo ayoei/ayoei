@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **creative projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://ayodev.netlify.app">my Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://ayoubelharaoui.com">my Portfolio</a>
 
 - 💬 Ask me about **Javascript, Node JS, React**
 
-- 📫 How to reach me **ayoubelharaoui.contact@gmail.com**
+- 📫 How to reach me **ayoub.elharaoui@outlook.com**
 
-- 📄 Know about my experiences <a href="https://linkedin.com/in/ayoubelharaoui/">my LinkedIn</a>
+- 📄 Know about my experiences <a href="https://linkedin.com/in/ayoub-elharaoui/">my LinkedIn</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
